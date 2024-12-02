@@ -45,7 +45,7 @@
             bindings = <&tog 4>;
         };
 
-        Windows {
+        combo_win {
             bindings = <&kp LEFT_WIN>;
             key-positions = <31 30>;
         };
